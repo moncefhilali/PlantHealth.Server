@@ -1,0 +1,6 @@
+@PlantHealth_HostAddress = http://localhost:5053
+
+GET {{PlantHealth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
